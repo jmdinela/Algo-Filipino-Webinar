@@ -1,1 +1,1 @@
-
+- [John Moren Dinela](github.com/jmdinela)
